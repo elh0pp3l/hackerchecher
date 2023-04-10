@@ -8,3 +8,13 @@ Installation on debian:
 ```
 apt-get install libmojolicious-perl
 ```
+
+to run:
+```
+nohup perl hackerchecker.pl &
+```
+
+for output:
+```
+tail -f nohup.out
+```
